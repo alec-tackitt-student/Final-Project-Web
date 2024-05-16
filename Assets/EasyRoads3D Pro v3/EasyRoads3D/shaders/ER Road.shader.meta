@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0b335df95917b8047b365d206435139a
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105045
+  packageName: EasyRoads3D Demo Project
+  packageVersion: 2.3f1
+  assetPath: Assets/EasyRoads3D/Shaders/ER Road.shader
+  uploadId: 644010

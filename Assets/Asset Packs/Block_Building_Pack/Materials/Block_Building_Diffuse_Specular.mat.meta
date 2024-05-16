@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c188d1fb3dcfe77469cf46d79ab9598d
+AssetOrigin:
+  serializedVersion: 1
+  productId: 13925
+  packageName: Block Building Pack
+  packageVersion: 1.0
+  assetPath: Assets/Block_Building_Pack/Materials/Block_Building_Diffuse_Specular.mat
+  uploadId: 1507
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: '{"GUIDArray":[],"withUV":[false,false,false,false]}'
+  assetBundleName: 
+  assetBundleVariant: 

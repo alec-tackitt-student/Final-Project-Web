@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 8e733e0b22eac204f99a8a6bb745c000
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 105045
+  packageName: EasyRoads3D Demo Project
+  packageVersion: 2.3f1
+  assetPath: Assets/EasyRoads3D/Shaders/ER I Connector Blend.shader
+  uploadId: 644010
